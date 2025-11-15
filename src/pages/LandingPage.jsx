@@ -7,7 +7,7 @@ import { Card, CardContent } from "../components/ui/card";
 // Back button intentionally not shown on landing
 
 // Update import paths based on where you keep them in Vite project
-import { FEATURES, STEPS, TESTIMONIALS } from "../lib/landing";
+import { FEATURES, STEPS, TESTIMONIALS } from "../lib/Landing.jsx";
 
 export default function LandingPage() {
   return (
